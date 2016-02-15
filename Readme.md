@@ -4,6 +4,15 @@ Send emails in a comfortable way via models.
 
 [![Circle CI](https://circleci.com/gh/vdemedes/mailman.svg?style=svg)](https://circleci.com/gh/vdemedes/mailman)
 
+## Links para posts com tutorial
+
+http://www.codingdefined.com/2014/12/send-email-comfortably-using-mailman-in.html
+
+https://www.youtube.com/watch?v=XnUqDYuRMvc
+
+http://www.bossable.com/1910/angularjs-nodemailer-contact-form/
+
+
 ## Features
 
 - Uses nodemailer under the hood to send out emails
